@@ -1,1 +1,1 @@
-# DLNMS
+This repo is used in paper "PET/CT based cross-modal deep learning signature to predict occult nodal metastasis and support comprehensive treatments in clinical stage N0 non-small cell lung cancer: a multicenter study".
